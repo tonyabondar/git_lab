@@ -1,1 +1,2 @@
-"Changes made by Developer B" 
+"Changes made by Developer A"
+"Changes made by Developer B"
